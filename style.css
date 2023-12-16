@@ -274,8 +274,8 @@ nav {
 }
 
 .dots div {
-    height: 22px;
-    width: 22px;
+    height: 1vmax;
+    width: 1vmax;
     border-radius: 50px;
     background-color: orange;
     margin-left: 25px;
